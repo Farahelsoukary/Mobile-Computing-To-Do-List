@@ -12,6 +12,11 @@ A simple to-do list application to help you organize your daily tasks efficientl
 ## Expo Online Compiler code 
 https://snack.expo.dev/@farahmohsen/to-do-list
 
+## Video
+https://github.com/Farahelsoukary/Mobile-Computing-To-Do-List/blob/main/todoList/todoList%20-%20Google%20Chrome%202025-03-12%2012-47-07.mp4
+
+## Report
+https://github.com/Farahelsoukary/Mobile-Computing-To-Do-List/blob/main/todoList/To-Do%20List.pdf
 
 ## Installation
 1. Clone the repository:
